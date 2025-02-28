@@ -28,3 +28,11 @@ a {
     color: #007bff;
     text-decoration: none;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* centers the image horizontally */
+}
+

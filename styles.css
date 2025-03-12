@@ -4,6 +4,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: #cba753;
+    line-height: 2; /* This sets double spacing */
 }
 
 header {

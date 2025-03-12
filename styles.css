@@ -18,7 +18,8 @@ h1, h2 {
 }
 
 .project {
-    background: white;
+    background: #333;
+    color: white;
     margin: 20px auto;
     padding: 10px;
     width: 80%;

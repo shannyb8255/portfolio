@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, serif;
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #cba753;
 }
 
 header {
@@ -49,7 +49,7 @@ img {
 }
 
 .profile-pic {
-    width: 700px;
+    width: 300px;
     border: 3px solid #000; /* Adds a black border */
     border-radius: 10px; /* Optional: Rounds the corners */
 }
